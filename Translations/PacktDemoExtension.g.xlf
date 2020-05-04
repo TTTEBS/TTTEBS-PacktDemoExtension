@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PacktDemoExtension">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2005216077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS PacktExtensionSetup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS PacktExtensionSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005216077 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS PacktExtensionSetup - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005216077 - Field 3240245035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Accepted Vendor Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS PacktExtensionSetup - Field MinimumAcceptedVendorRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005216077 - Field 776013187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gift Tolerance Quantity for Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS PacktExtensionSetup - Field GiftToleranceQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS CustomerCategory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 1383905037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 224392340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable Newsletter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field EnableNewsletter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 989712734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Free Gifts Available</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field FreeGiftsAvailable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3284932728 - Field 3907209010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of associated customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS CustomerCategory - Field TotalCustomersForCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS GiftCampaign</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 1342167883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerCategoryCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field CustomerCategoryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 1342167883 - Method 2126772001 - NamedType 232331533" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This category is not enabled for Gift Campaigns.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field CustomerCategoryCode - Method OnValidate - NamedType ErrNoGifts</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 1342167883 - Method 2126772001 - NamedType 2006978215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This category is blocked.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field CustomerCategoryCode - Method OnValidate - NamedType ErrBlocked</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StartingDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EndingDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 4138006509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MinimumOrderQuantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field MinimumOrderQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 1740626337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GiftQuantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field GiftQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2332000950 - Field 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS GiftCampaign - Field Inactive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 377837881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Activity Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field Vendor Activity Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 2966361788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Quality Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field ScoreItemQuality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 3310304992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery On Time Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field ScoreDelivery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 3612750857 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packaging Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field ScorePackaging - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 2680966708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pricing Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field ScorePricing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 2006937558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 832395135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field UpdateDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 3532738656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced for current year (N)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field InvoicedYearN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 511709391 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced for year N-1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field InvoicedYearN1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 2424799242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced for year N-2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field InvoicedYearN2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 2988795004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field DueAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4002501619 - Field 3905246951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to pay (not due)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field AmountNotDue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4016151894 - Method 2314997803 - NamedType 3258297942" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attention: there is an active promotion for item %1. if you buy %2 you can have a gift of %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS GiftMgt - Method DoGiftCheck - NamedType GiftAlert</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1924467537 - Method 3301616314 - NamedType 3691555357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculating vendor statistic..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS VendorQualityMgt - Method UpdateVendorQualityStatistic - NamedType DialogMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1924467537 - Method 2267899969 - NamedType 3471820988" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1 has a rate of %2 and it's under the required minimum value (%3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS VendorQualityMgt - Method QualityCheckForReleasingPurchaseDoc - NamedType ErrNoMinimumRate</note>
+        </trans-unit>
+        <trans-unit id="Page 2515341633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packt Extension Setup Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS PacktExtensionSetupCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2515341633 - Control 3240245035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If "Vendor Quality" - Rate &lt; "Packt Setup" - "Minimum Accepted Vendor Rate", then error when release purchase document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS PacktExtensionSetupCard - Control MinimumAcceptedVendorRate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1814702628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Category Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1814702628 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1814702628 - Control 1569466922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryCard - Control Administration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1814702628 - Control 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryCard - Control Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1814702628 - Control 1223403522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Sales Order Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryCard - Control TotalSalesAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 935418274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Category List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 935418274 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ranking, categorization, TTTEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryList - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 935418274 - Control 3907209010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Customers for Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryList - Control TotalCustomersForCategory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 935418274 - Action 1258366377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create default category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryList - Action CreateDefaultCategory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 935418274 - Action 1258366377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create default category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS CustomerCategoryList - Action CreateDefaultCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288456572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gift Campaign List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS GiftCampaignList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288456572 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>promotions, marketing, TTTEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS GiftCampaignList - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 3288456572 - View 3497628811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Gift Campaigns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS GiftCampaignList - View ActiveCampaigns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288456572 - View 1329101026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive Gift Campaigns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS GiftCampaignList - View InActiveCampaigns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549927391 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Vendor Quality Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549927391 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Vendor Quality Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549927391 - Control 2906479055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Vendor Quality Card - Control Scoring - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549927391 - Control 3136822934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Financials</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Vendor Quality Card - Control Financials - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1534695908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerView01</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query CustomerView01 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Control 1530605032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Control Customer Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Action 1612165934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Assign Default Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Action Assign default category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Action 1612165934 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Assign Default Category to the current Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Action Assign default category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1103039088 - Action 1612165934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Assign Default Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerListPageExt - Action Assign default category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1103039088 - Action 1612165934 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Assign Default Category to the current Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerListPageExt - Action Assign default category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1103039088 - View 2072542781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customers without Category assigned</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerListPageExt - View CustomersWithoutCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 662339888 - Action 153267254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Add Free Gifts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS SalesOrderPageExt - Action AddFreeGifts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 662339888 - Action 153267254 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Adds Free Gifts to the current Sales Order based on active Campaigns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS SalesOrderPageExt - Action AddFreeGifts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 916488638 - Action 1659253645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Quality Classification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS VendorCardPageExt - Action QualityClassification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1923593293 - Field 3083484211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TTTEBS CustomerTableExt - Field TTTEBS CustomerCategoryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1923593293 - Field 3083484211 - Method 2126772001 - NamedType 2006978215" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>This Category is Blocked!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TTTEBS CustomerTableExt - Field TTTEBS CustomerCategoryCode - Method OnValidate - NamedType ErrBlocked</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 401122149 - Field 3083484211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Customer Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TTTEBS ItemLedgerEntryTableExt - Field TTTEBS CustomerCategoryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 38531963 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS NewsletterType - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 38531963 - EnumValue 2007862461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS NewsletterType - EnumValue Full - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 38531963 - EnumValue 2559989616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limited</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS NewsletterType - EnumValue Limited - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

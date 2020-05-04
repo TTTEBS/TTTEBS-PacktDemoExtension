@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Docker-bc150",
+            "server": "http://bcsandbox",
+            "serverInstance": "BC",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"  // TTTEBS -> Slet data - Kun udv!
+        },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Local-bc150",
+            "server": "http://localhost:15049",
+            "serverInstance": "bc150",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "Recreate"  // TTTEBS -> Slet data - kun udv!
+        },
+    ]
+}
