@@ -23,6 +23,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS PacktExtensionSetup - Field GiftToleranceQty - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1214686521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS BlobEntry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BlobEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1214686521 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BlobEntry - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1214686521 - Field 2359708523 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BlobField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BlobEntry - Field BlobField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1214686521 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BlobEntry - Field Description - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3284932728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>TTTEBS CustomerCategory</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -188,6 +208,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field AmountNotDue - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3315077617 - Method 3075264310 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a File...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method UploadAttachment - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3315077617 - Method 3685084935 - NamedType 1074605315" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File not available.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method OpenAttachment - NamedType ErrorAttachment</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3175770540 - Method 3313894911 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No images stored for the selected item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method ExportItemPicture - NamedType ErrMsg</note>
+        </trans-unit>
         <trans-unit id="Codeunit 4016151894 - Method 2314997803 - NamedType 3258297942" size-unit="char" translate="yes" xml:space="preserve">
           <source>Attention: there is an active promotion for item %1. if you buy %2 you can have a gift of %3</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -203,6 +238,71 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS VendorQualityMgt - Method QualityCheckForReleasingPurchaseDoc - NamedType ErrNoMinimumRate</note>
         </trans-unit>
+        <trans-unit id="Page 1928153799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TestPage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TestPage, FileTreatment, TTTEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 3313894911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Item Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action ExportItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 1665672646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload CSV to Create/Modify Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action UploadCSVCreateOrModifyItems - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 2100715985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Text File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action CreateTextFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 1159403147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action Attachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 3075264310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action UploadAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 3685084935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action OpenAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 3926698677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action Blob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 920363003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action BlobEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 2735484940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xml Import Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action XmlImpExp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 1691509351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action XmlExpCust - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 140658448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action XmlImpCust - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2515341633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Packt Extension Setup Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -212,6 +312,66 @@
           <source>If "Vendor Quality" - Rate &lt; "Packt Setup" - "Minimum Accepted Vendor Rate", then error when release purchase document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS PacktExtensionSetupCard - Control MinimumAcceptedVendorRate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 432568063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Entry List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS BlobEntryList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 432568063 - Control 3356763404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Field Has Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS BlobEntryList - Control BlobFieldHasValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 432568063 - Control 3356763404 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the Blob field Has Value.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS BlobEntryList - Control BlobFieldHasValue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 432568063 - Action 3320271350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set BLOB value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS BlobEntryList - Action SetBlobValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 432568063 - Action 1191585410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get BLOB value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS BlobEntryList - Action GetBlobValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1898777733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS MyRoleCenter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS MyRoleCenterHeadLine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - Control 2540521744 - Method 1845446376 - NamedType 2019953394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://www.telosteam.dk/</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - Control HeadLine2 - Method OnDrillDown - NamedType DrillDownURL</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - NamedType 4070373554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is HeadLine 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - NamedType msgHeadLine1</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - NamedType 2157283703" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is HeadLine 2 (Click for details)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - NamedType msgHeadLine2</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - NamedType 2794980320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is HeadLine 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - NamedType msgHeadLine3</note>
+        </trans-unit>
+        <trans-unit id="Page 222001655 - NamedType 1688496109" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is HeadLine 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS MyRoleCenterHeadLine - NamedType msgHeadLine4</note>
         </trans-unit>
         <trans-unit id="Page 1814702628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Category Card</source>
@@ -307,6 +467,16 @@
           <source>CustomerView01</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query CustomerView01 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1400232060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS ImpExpCust</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TTTEBS ImpExpCust - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3473497702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS ImpExpCust2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TTTEBS ImpExpCust2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2621463910 - Control 1530605032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Customer Category</source>
