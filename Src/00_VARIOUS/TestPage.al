@@ -130,6 +130,35 @@ page 50105 TestPage
                     end;
                 }
             }
+            group(IsolatedStorage)
+            {
+                Caption = 'Isolated Storage';
+                action(IsolatedStorageTest)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Test';
+
+                    trigger OnAction()
+                    var
+                        IsolatedStorageMgt: Codeunit "TTTEBS IsolatedStorageMgt";
+                    begin
+                        IsolatedStorageMgt.Run();
+                    end;
+                }
+                action(StoreLicense)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Store License (NOT WORKING!)';
+
+                    trigger OnAction()
+                    var
+                        IsolatedStorageMgt: Codeunit "TTTEBS IsolatedStorageMgt";
+                    begin
+                        IsolatedStorageMgt.StoreLicense();
+                    end;
+                }
+
+            }
         }
     }
 }

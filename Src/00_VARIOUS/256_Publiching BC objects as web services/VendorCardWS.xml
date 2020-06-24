@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportedData>
+    <TenantWebServiceCollection>
+        <TenantWebService>
+            <ObjectType>8</ObjectType>
+            <ServiceName>VendorCardWS2</ServiceName>
+            <ObjectID>26</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>    
+    </TenantWebServiceCollection>
+</ExportedData>

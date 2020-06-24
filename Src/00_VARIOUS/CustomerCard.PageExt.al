@@ -10,6 +10,20 @@ pageextension 50101 "TTTEBS CustomerCardPageExt" extends "Customer Card"
                 ApplicationArea = All;
             }
         }
+        // 256_Consuming web service and API >>
+        modify(Name)
+        {
+            trigger OnAfterValidate()
+            var
+                TranslationMgt: Codeunit "TTTEBS TranslationMgt";
+            begin
+                if Name.EndsWith('.com') then begin 
+                    if Confirm('Do you want to retrieve company details?', false) then
+                        TranslationMgt.LookupAddressInfo(Name,Rec);
+                end;
+            end;   
+        }
+        // 256_Consuming web service and API <<
     }
     
     actions

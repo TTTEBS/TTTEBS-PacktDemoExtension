@@ -43,6 +43,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BlobEntry - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1761113613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS License - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1761113613 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS License - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1761113613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTTEBS License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS License - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3284932728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>TTTEBS CustomerCategory</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -208,6 +223,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field AmountNotDue - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3175770540 - Method 3313894911 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No images stored for the selected item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method ExportItemPicture - NamedType ErrMsg</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3315077617 - Method 3075264310 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please select a File...</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -218,10 +238,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method OpenAttachment - NamedType ErrorAttachment</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3175770540 - Method 3313894911 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No images stored for the selected item.</source>
+        <trans-unit id="Codeunit 3555724187 - Method 3260358678 - NamedType 2705739075" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://postcodevalidator.azurewebsites.net/api/postcodevalidator?code=</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method ExportItemPicture - NamedType ErrMsg</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AzureFuncMgt - Method ValidatePostCodeViaAzureFunc - NamedType FunctionURL</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3555724187 - Method 3260358678 - NamedType 1713518206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid Response from Azure Function.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AzureFuncMgt - Method ValidatePostCodeViaAzureFunc - NamedType InvalidResponseError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3555724187 - Method 3260358678 - NamedType 604130768" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid Post Code. Please reinsert.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AzureFuncMgt - Method ValidatePostCodeViaAzureFunc - NamedType InvalidCodeError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3555724187 - Method 3260358678 - NamedType 1845859492" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found in Json.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AzureFuncMgt - Method ValidatePostCodeViaAzureFunc - NamedType TokenNotFoundError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 534089582 - Method 265283524 - NamedType 2682833826" size-unit="char" translate="no" xml:space="preserve">
+          <source>TEST01</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS IsolatedStorageMgt - Method GetStorageKey - NamedType StorageKeyTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 4016151894 - Method 2314997803 - NamedType 3258297942" size-unit="char" translate="yes" xml:space="preserve">
           <source>Attention: there is an active promotion for item %1. if you buy %2 you can have a gift of %3</source>
@@ -302,6 +342,21 @@
           <source>Import Customers</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action XmlImpCust - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 556928936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Isolated Storage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action IsolatedStorage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 2361598870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action IsolatedStorageTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1928153799 - Action 3393825344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store License (NOT WORKING!)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TestPage - Action StoreLicense - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2515341633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Packt Extension Setup Card</source>
@@ -492,6 +547,16 @@
           <source>Assign Default Category to the current Customer</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Action Assign default category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2397714960 - Action 1467300672 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>CreateJSON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS SalesOrderSubForm - Action CreateJSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1545947781 - Control 3899606083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Control Add-in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS ItemCardPageExt - Control AddinGroup - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1103039088 - Action 1612165934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
           <source>Assign Default Category</source>

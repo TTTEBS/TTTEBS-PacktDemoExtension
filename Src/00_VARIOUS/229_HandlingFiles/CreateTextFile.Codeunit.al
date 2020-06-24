@@ -15,6 +15,6 @@ codeunit 50107 "TTTEBS CreateTextFile"
         OutStr.WriteText('Second line'+ CR + LF);
         OutStr.WriteText('Third line'+ CR + LF);
         TempBlob.CreateInStream(InStr);
-        DownloadFromStream(InStr, '', '', '', pFileName);        
+        DownloadFromStream(InStr, '', '', '', pFileName);
     end;
 }
