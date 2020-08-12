@@ -518,6 +518,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Vendor Quality Card - Control Financials - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 1442428006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entry Analysis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1442428006 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1442428006 - Control 1820082297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include company logo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - Control IncludeLogo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1442428006 - ReportLabel 715851251" maxwidth="999" size-unit="char" translate="no" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2">Foo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - ReportLabel PageLBL</note>
+        </trans-unit>
+        <trans-unit id="Report 1442428006 - ReportLabel 1789044832" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entry Analysis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - ReportLabel HeadLineLBL</note>
+        </trans-unit>
         <trans-unit id="Query 1534695908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>CustomerView01</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -538,6 +563,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Control Customer Category - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Control 594021928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Sales Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Control SalesAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Control 734953748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>No. of Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Control NoOfSales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2621463910 - Control 2117809559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>No. Of Items Shipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS CustomerCardPageExt - Control NoOfItemsShipped - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2621463910 - Action 1612165934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Assign Default Category</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -557,6 +597,16 @@
           <source>Control Add-in</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS ItemCardPageExt - Control AddinGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1267705449 - Method 716454850 - NamedType 3164412991" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>TTTEBS -&gt; This Vendor has a balance due. Please check before sending orders!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS PurchaseOrderPageExt - Method OnOpenPage - NamedType lv_TextNotification</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1267705449 - Method 716454850 - NamedType 2577919613" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Check balance due</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTEBS PurchaseOrderPageExt - Method OnOpenPage - NamedType lv_TextNotificationAction</note>
         </trans-unit>
         <trans-unit id="PageExtension 1103039088 - Action 1612165934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
           <source>Assign Default Category</source>

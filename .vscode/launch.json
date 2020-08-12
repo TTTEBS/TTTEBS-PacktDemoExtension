@@ -8,7 +8,7 @@
             "server": "http://bcsandbox",
             "serverInstance": "BC",
             "authentication": "Windows",
-            "startupObjectId": 30,  // TestPage = 50105, MyRoleCenter = 50107, Control Add ins = 30
+            "startupObjectId": 22,  // TestPage = 50105, MyRoleCenter = 50107, Control Add ins = 30
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,

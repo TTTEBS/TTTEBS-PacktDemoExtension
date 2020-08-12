@@ -13,11 +13,9 @@ controladdin DemoD365BCAddin
     Scripts = 'ControlAddIns/Scripts/main.js';
     StyleSheets = 'ControlAddIns/CSS/stylesheet.css';
     StartupScript = 'ControlAddIns/Scripts/start.js';
-    //RecreateScript = 'recreateScript.js';
-    //RefreshScript = 'refreshScript.js';
     Images = 'ControlAddIns/Images/Avatar.png';
 
-    event ControlReady()
+    event ControlReady2()
 
-    procedure HelloWorld()
+    procedure HelloWorld2()
 }

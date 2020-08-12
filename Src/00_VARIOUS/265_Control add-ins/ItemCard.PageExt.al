@@ -12,9 +12,9 @@ pageextension 50105 "TTTEBS ItemCardPageExt" extends "Item Card"
                 {
                     ApplicationArea = All;
 
-                    trigger ControlReady()
+                    trigger ControlReady2()
                     begin
-                        CurrPage.DemoAddin.HelloWorld();
+                        CurrPage.DemoAddin.HelloWorld2();
                     end;
                 }
             }
