@@ -1043,6 +1043,24 @@
     </ReportSection>
   </ReportSections>
   <ReportParameters>
+    <ReportParameter Name="PageLBL">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>PageLBL</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>PageLBL</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="HeadLineLBL">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>HeadLineLBL</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>HeadLineLBL</Prompt>
+    </ReportParameter>
     <ReportParameter Name="ItemNoCaption">
       <DataType>String</DataType>
       <DefaultValue>
@@ -1128,51 +1146,61 @@
   <ReportParametersLayout>
     <GridLayoutDefinition>
       <NumberOfColumns>1</NumberOfColumns>
-      <NumberOfRows>9</NumberOfRows>
+      <NumberOfRows>11</NumberOfRows>
       <CellDefinitions>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>0</RowIndex>
-          <ParameterName>ItemNoCaption</ParameterName>
+          <ParameterName>PageLBL</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>1</RowIndex>
-          <ParameterName>PostingDateCaption</ParameterName>
+          <ParameterName>HeadLineLBL</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>2</RowIndex>
-          <ParameterName>EntryTypeCaption</ParameterName>
+          <ParameterName>ItemNoCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>3</RowIndex>
-          <ParameterName>EntryNoCaption</ParameterName>
+          <ParameterName>PostingDateCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>4</RowIndex>
-          <ParameterName>DocumentNoCaption</ParameterName>
+          <ParameterName>EntryTypeCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>5</RowIndex>
-          <ParameterName>DescriptionCaption</ParameterName>
+          <ParameterName>EntryNoCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>6</RowIndex>
-          <ParameterName>LocationCodeCaption</ParameterName>
+          <ParameterName>DocumentNoCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>7</RowIndex>
-          <ParameterName>QuantityCaption</ParameterName>
+          <ParameterName>DescriptionCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>8</RowIndex>
+          <ParameterName>LocationCodeCaption</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>9</RowIndex>
+          <ParameterName>QuantityCaption</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>10</RowIndex>
           <ParameterName>CustomerCategoryCodeCaption</ParameterName>
         </CellDefinition>
       </CellDefinitions>

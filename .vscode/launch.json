@@ -23,7 +23,7 @@
             "server": "http://localhost:15049",
             "serverInstance": "bc150",
             "authentication": "Windows",
-            "startupObjectId": 22,
+            "startupObjectId": 50105,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,

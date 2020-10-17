@@ -3,11 +3,18 @@ report 50100 "TTTEBS ILEAnalysis"
     Caption = 'Item Ledger Entry Analysis';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = all;
-
     UseRequestPage = true;
-    DefaultLayout = RDLC;
+
+    // DefaultLayout = RDLC;
+    DefaultLayout = Word;
+
+    WordLayout = '.\Src\00_VARIOUS\289_Reports\ILEAnalysis.docx';
     RDLCLayout = '.\Src\00_VARIOUS\289_Reports\ILEAnalysis.rdl';
-    // RDLCLayout = '.\Src\00_VARIOUS\289_Reports\ILEAnalysisDATASET.rdl';  // SEE DATASET!
+
+    // Speciel - See dataset:
+    // Open Layout in ReportBuilder, and choose Table -> Table Wizzard -> Dataset x2 Click -> Mark All fields -> Insert in Values
+    // When Running Report - Save data to Excel..    
+    // RDLCLayout = '.\Src\00_VARIOUS\289_Reports\ILEAnalysisDATASET.rdl';
 
     dataset
     {

@@ -223,10 +223,40 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS VendorQuality - Field AmountNotDue - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 695927161 - Method 2131403434" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateTextFile</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CreateTextFile - Method CreateTextFile</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3175770540 - Method 719667859" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExportItemPicture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method ExportItemPicture</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3175770540 - Method 2278288652" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetImageExtension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method GetImageExtension</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3175770540 - Method 3313894911 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve">
           <source>No images stored for the selected item.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ExportPicture - Method ExportItemPicture - NamedType ErrMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 175573895 - Method 3509972491" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UploadCSVCreateOrModifyItems</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS UploadCSV - Method UploadCSVCreateOrModifyItems</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3315077617 - Method 977709116" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UploadAttachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method UploadAttachment</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3315077617 - Method 1144717557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OpenAttachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method OpenAttachment</note>
         </trans-unit>
         <trans-unit id="Codeunit 3315077617 - Method 3075264310 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please select a File...</source>
@@ -237,6 +267,61 @@
           <source>File not available.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AttachmentMgt - Method OpenAttachment - NamedType ErrorAttachment</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2823830610 - Method 3582889924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XmlImportCustomers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ImpExpCustMgt - Method XmlImportCustomers</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2823830610 - Method 1712858777" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XmlExportCustomers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ImpExpCustMgt - Method XmlExportCustomers</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4016942220 - Method 2207963049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qualifier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS HeadLineMgt - Method Qualifier</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4016942220 - Method 1722100645" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS HeadLineMgt - Method Payload</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4016942220 - Method 1227714471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Emphasize</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS HeadLineMgt - Method Emphasize</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1733009918 - Method 3596890726" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateJsonOrder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CreateJsonDocMgt - Method CreateJsonOrder</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1564947911 - Method 2285985984" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LookupAddressInfo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS TranslationMgt - Method LookupAddressInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1564947911 - Method 2037378165" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetTokenAsText</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS TranslationMgt - Method GetTokenAsText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1564947911 - Method 3339919126" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetTokenAsObject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS TranslationMgt - Method GetTokenAsObject</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1564947911 - Method 3105184962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetTokenAsArray</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS TranslationMgt - Method GetTokenAsArray</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1564947911 - Method 1457665887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetArrayElementAsObject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS TranslationMgt - Method GetArrayElementAsObject</note>
         </trans-unit>
         <trans-unit id="Codeunit 3555724187 - Method 3260358678 - NamedType 2705739075" size-unit="char" translate="yes" xml:space="preserve">
           <source>http://postcodevalidator.azurewebsites.net/api/postcodevalidator?code=</source>
@@ -258,15 +343,65 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS AzureFuncMgt - Method ValidatePostCodeViaAzureFunc - NamedType TokenNotFoundError</note>
         </trans-unit>
-        <trans-unit id="Codeunit 534089582 - Method 265283524 - NamedType 2682833826" size-unit="char" translate="no" xml:space="preserve">
-          <source>TEST01</source>
+        <trans-unit id="Codeunit 534089582 - Method 383327867" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StoreLicense</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS IsolatedStorageMgt - Method GetStorageKey - NamedType StorageKeyTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS IsolatedStorageMgt - Method StoreLicense</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1361544466 - Method 764668750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OpenVendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS ActionHandler - Method OpenVendor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2605856125 - Method 3938339134" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UseCustomerView</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit UseCustomerView01 - Method UseCustomerView</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4155588150 - Method 3122116758" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateDefaultCategory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CustomerCategoryMgt - Method CreateDefaultCategory</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4155588150 - Method 438361037" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AssignDefaultCategory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CustomerCategoryMgt - Method AssignDefaultCategory</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4155588150 - Method 310118767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AssignDefaultCategory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CustomerCategoryMgt - Method AssignDefaultCategory</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4155588150 - Method 377510365" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetTotalCustomersWithoutCategory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CustomerCategoryMgt - Method GetTotalCustomersWithoutCategory</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4155588150 - Method 3624270477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetSalesAmount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS CustomerCategoryMgt - Method GetSalesAmount</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4016151894 - Method 3050711964" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AddGifts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS GiftMgt - Method AddGifts</note>
         </trans-unit>
         <trans-unit id="Codeunit 4016151894 - Method 2314997803 - NamedType 3258297942" size-unit="char" translate="yes" xml:space="preserve">
           <source>Attention: there is an active promotion for item %1. if you buy %2 you can have a gift of %3</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS GiftMgt - Method DoGiftCheck - NamedType GiftAlert</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1924467537 - Method 4022472419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CalculateVendorRate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS VendorQualityMgt - Method CalculateVendorRate</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1924467537 - Method 206922439" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateVendorQualityStatistic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTEBS VendorQualityMgt - Method UpdateVendorQualityStatistic</note>
         </trans-unit>
         <trans-unit id="Codeunit 1924467537 - Method 3301616314 - NamedType 3691555357" size-unit="char" translate="yes" xml:space="preserve">
           <source>Calculating vendor statistic..</source>
@@ -532,11 +667,6 @@
           <source>Include company logo</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - Control IncludeLogo - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Report 1442428006 - ReportLabel 715851251" maxwidth="999" size-unit="char" translate="no" xml:space="preserve">
-          <source>Page</source>
-          <note from="Developer" annotates="general" priority="2">Foo</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report TTTEBS ILEAnalysis - ReportLabel PageLBL</note>
         </trans-unit>
         <trans-unit id="Report 1442428006 - ReportLabel 1789044832" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item Ledger Entry Analysis</source>
