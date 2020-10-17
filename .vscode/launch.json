@@ -16,12 +16,29 @@
             "enableSqlInformationDebugger": true,
             "schemaUpdateMode": "ForceSync"  // TTTEBS -> Slet data - Kun udv!
         },
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "Local-bc150",
+        //     "server": "http://localhost:15049",
+        //     "serverInstance": "bc150",
+        //     "authentication": "Windows",
+        //     "startupObjectId": 50105,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": true,
+        //     "launchBrowser": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "enableSqlInformationDebugger": true,
+        //     "schemaUpdateMode": "Recreate"  // TTTEBS -> Slet data - kun udv!
+        // },
         {
-            "type": "al",
+            "name": "Your own server",
             "request": "launch",
-            "name": "Local-bc150",
-            "server": "http://localhost:15049",
-            "serverInstance": "bc150",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://localhost",
+            "port": 15049,
+            "serverInstance": "BC150",
             "authentication": "Windows",
             "startupObjectId": 50105,
             "startupObjectType": "Page",
@@ -29,7 +46,8 @@
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "Recreate"  // TTTEBS -> Slet data - kun udv!
-        },
+            "tenant": "default",
+            "schemaUpdateMode": "Recreate"
+        }
     ]
 }
